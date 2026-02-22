@@ -1,0 +1,16 @@
+actor
+baker
+judge
+pilot
+nurse
+clerk
+smith
+chef
+rider
+guard
+agent
+medic
+writer
+editor
+coach
+miner
