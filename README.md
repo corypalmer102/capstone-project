@@ -7,7 +7,9 @@ Features implemented: Wordle-style 6x5 grid display, coloured feedback (green: c
 Requirements: Python 3.9+, Rich library.
 
 How to run: 
+
 Go to the project directory in Terminal: cd ~/Desktop/Capstone\ Project
+
 Run the program: python3 main.py
 
 I plan to add: timer mode, streak counter, win/loss statistics, multiple difficulty levels.
